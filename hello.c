@@ -8,7 +8,8 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Olanrewaju Bakare");
+    printf("Olanrewaju Bakare\n");
+    printf("Computer Science\n");
     return 0;
     
 } 
