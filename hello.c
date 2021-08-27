@@ -10,6 +10,8 @@
 int main(void) {
     printf("Olanrewaju Bakare\n");
     printf("Computer Science\n");
+    printf("Emma Williams");
+    printf("Electrical Engineering");
     return 0;
     
 } 
